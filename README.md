@@ -13,6 +13,8 @@ This repository showcases my journey in **Deep Learning** through various projec
 
 **💳 01 - Credit Score Classification Project**: This project focuses on classifying credit scores into three categories (Good, Standard, Poor) using an **Artificial Neural Network (ANN)**. It involves data preprocessing, feature scaling, model optimization with techniques like early stopping and dropout, and evaluation based on performance metrics such as accuracy, precision, recall, and F1-score.
 
+**🦸🏻‍♀️ 02 - Avengers Character Detection with YOLOv11**: This project focuses on detecting and classifying Avengers characters using the YOLOv11 object detection model. It involves collecting and labeling a balanced dataset, applying image processing techniques using tools like Roboflow, and training the model for accurate predictions. The dataset includes 552 images of 6 characters, with each character having 90-95 images. The dataset is split into training (80%), validation (10%), and testing (10%) subsets. The model is evaluated based on its ability to accurately detect and classify the characters.
+
 ## 🛠️ Tools & Technologies
 - 🐍 Python
 - 🔥 PyTorch & TensorFlow
